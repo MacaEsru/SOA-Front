@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "soa-firebase-775e0": {
+      "hosting": {
+        "SOA-Front": [
+          "soa-firebase-775e0"
+        ]
+      }
+    }
+  }
+}
